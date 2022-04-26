@@ -1,3 +1,4 @@
 hello owner!!
 hi Lodopey the Collaborator!
-printf("the area if triangle is: %.2f", x);
+printf("the area of circle is: %.2f", x);
+
