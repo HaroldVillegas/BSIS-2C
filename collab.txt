@@ -1,2 +1,3 @@
 hello owner!!
 hi Lodopey the Collaborator!
+printf("the area if triangle is: %.2f", x);
